@@ -1,0 +1,130 @@
+{
+  "name": "🥇 Mónaco Cortinas Metálicas - Líderes en Seguridad Buenos Aires",
+  "short_name": "Mónaco Cortinas",
+  "description": "🏆 Fabricación e instalación de cortinas metálicas premium con +20 años de experiencia. Servicio 24/7, garantía extendida. Capital Federal y Gran Buenos Aires.",
+  "start_url": "/?utm_source=pwa&utm_medium=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "categories": ["business", "construction", "security", "manufacturing", "services"],
+  "lang": "es-AR",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "shortcuts": [
+    {
+      "name": "Cotizador Gratis",
+      "short_name": "Cotizar",
+      "description": "Obtén tu presupuesto gratuito en 24hs",
+      "url": "/cotizador?utm_source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/icons/calculator-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Emergencia 24hs",
+      "short_name": "Emergencia",
+      "description": "Servicio de reparación 24 horas",
+      "url": "tel:+5491144393030",
+      "icons": [
+        {
+          "src": "/icons/emergency-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "WhatsApp",
+      "short_name": "WhatsApp",
+      "description": "Contacto directo por WhatsApp",
+      "url": "https://wa.me/5491144393030?text=Hola,%20necesito%20información%20sobre%20cortinas%20metálicas",
+      "icons": [
+        {
+          "src": "/icons/whatsapp-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/desktop-home.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Página principal - Vista escritorio"
+    },
+    {
+      "src": "/screenshots/mobile-home.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Página principal - Vista móvil"
+    },
+    {
+      "src": "/screenshots/cotizador.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Cotizador de cortinas metálicas"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://monacocortinas.com.ar/site.webmanifest"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml" 
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Página principal con imágenes y mobile optimization -->
+  <url>
+    <loc>https://monacocortinas.com.ar/</loc>
+    <lastmod>2025-01-25T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/hero-cortinas-metalicas.jpg</image:loc>
+      <image:title>Cortinas Metálicas Premium Mónaco</image:title>
+      <image:caption>Fabricación e instalación de cortinas metálicas de máxima calidad en Buenos Aires</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/fabrica-monaco.webp</image:loc>
+      <image:title>Fábrica Mónaco Cortinas Metálicas</image:title>
+      <image:caption>Proceso de fabricación de cortinas metálicas con tecnología de punta</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Secciones principales con mejor prioridad y frecuencia -->
+  <url>
+    <loc>https://monacocortinas.com.ar/#servicios</loc>
+    <lastmod>2025-01-25T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://monacocortinas.com.ar/#productos</loc>
+    <lastmod>2025-01-25T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://monacocortinas.com.ar/cotizador</loc>
+    <lastmod>2025-01-25T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://monacocortinas.com.ar/#galeria</loc>
+    <lastmod>2025-01-25T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://monacocortinas.com.ar/#nosotros</loc>
+    <lastmod>2025-01-25T06:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://monacocortinas.com.ar/#contacto</loc>
+    <lastmod>2025-01-25T06:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <mobile:mobile/>
+  </url>
+
+  <!-- URLs adicionales para mejor indexación -->
+  <url>
+    <loc>https://monacocortinas.com.ar/cortinas-metalicas-comerciales</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://monacocortinas.com.ar/cortinas-metalicas-automatizadas</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <mobile:mobile/>
+  </url>
+  
+  <url>
+    <loc>https://monacocortinas.com.ar/reparacion-cortinas-24hs</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <mobile:mobile/>
+  </url>
+</urlset>

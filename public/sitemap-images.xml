@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Sitemap específico para imágenes optimizado para SEO -->
+  <url>
+    <loc>https://monacocortinas.com.ar/</loc>
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/hero-cortinas-metalicas-premium.webp</image:loc>
+      <image:title>Cortinas Metálicas Premium Mónaco Buenos Aires</image:title>
+      <image:caption>Fabricación e instalación de cortinas metálicas de máxima calidad con más de 20 años de experiencia en Buenos Aires</image:caption>
+      <image:geo_location>El Jagüel, Buenos Aires, Argentina</image:geo_location>
+      <image:license>https://monacocortinas.com.ar/licencia-imagenes</image:license>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/fabrica-monaco-cortinas-metalicas.webp</image:loc>
+      <image:title>Fábrica Mónaco Cortinas Metálicas - Proceso de Fabricación</image:title>
+      <image:caption>Proceso de fabricación de cortinas metálicas con tecnología de punta y materiales premium</image:caption>
+      <image:geo_location>El Jagüel, Buenos Aires, Argentina</image:geo_location>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/cortina-comercial-automatizada.webp</image:loc>
+      <image:title>Cortina Metálica Comercial Automatizada con Motor</image:title>
+      <image:caption>Cortina metálica comercial con sistema de automatización y motor premium instalada</image:caption>
+      <image:geo_location>Buenos Aires, Argentina</image:geo_location>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/instalacion-cortina-metalica-24hs.webp</image:loc>
+      <image:title>Instalación de Cortina Metálica Servicio 24hs</image:title>
+      <image:caption>Servicio de instalación profesional de cortinas metálicas disponible 24 horas</image:caption>
+      <image:geo_location>Buenos Aires, Argentina</image:geo_location>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/reparacion-cortinas-emergencia.webp</image:loc>
+      <image:title>Reparación de Cortinas Metálicas Servicio de Emergencia</image:title>
+      <image:caption>Servicio de reparación de emergencia para cortinas metálicas disponible 24/7</image:caption>
+      <image:geo_location>Buenos Aires, Argentina</image:geo_location>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://monacocortinas.com.ar/images/motor-automatizacion-cortinas.webp</image:loc>
+      <image:title>Motor de Automatización para Cortinas Metálicas Premium</image:title>
+      <image:caption>Motores de alta calidad para automatización de cortinas metálicas con control remoto</image:caption>
+      <image:geo_location>Buenos Aires, Argentina</image:geo_location>
+    </image:image>
+  </url>
+</urlset>
